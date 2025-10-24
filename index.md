@@ -10,7 +10,7 @@
 #### ○[動画リスト　高圧ガス講習会・素材（高圧ガスプレゼンパーツ）](https://www.youtube.com/playlist?list=PLyWaCYkYFCtRkPucUMitdzt-6NS_G58JI)
 
 #### ○[動画　江戸川区埋設アセチレンボンベ漏出ガス爆発事故・分析](https://youtu.be/DdZVHsk0VAQ)
-
+〔[江戸川区埋設アセチレンボンベ漏出ガス爆発事故解析資料集](https://h-oooka.github.io/contents/edogawa.html)〕
 
 
 #### ○[動画　「全溶連SDGs活動について」](https://www.youtube.com/watch?v=rpwbO-xyYrw&list=PLBAoD-GOnTpV4T2y9tv1itmh9Yqpj7lbH&index=4)
