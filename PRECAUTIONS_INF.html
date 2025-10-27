@@ -93,7 +93,7 @@
         }
 
         .notice-box li:before {
-            content: "⚠";
+            content: "â ";
             position: absolute;
             left: -20px;
             color: #ffc107;
@@ -282,20 +282,159 @@
 
         /* Responsive */
         @media (max-width: 768px) {
+            .header {
+                padding: 30px 20px;
+            }
+
             .header h1 {
-                font-size: 2em;
+                font-size: 1.6em;
+                line-height: 1.3;
+            }
+
+            .header-info {
+                padding: 15px;
+                font-size: 0.9em;
+            }
+
+            .header-info p {
+                font-size: 0.95em;
+            }
+
+            .alert-banner {
+                padding: 15px 20px;
+                font-size: 0.95em;
+            }
+
+            .alert-banner strong {
+                font-size: 1.1em;
+            }
+
+            .notice-box {
+                padding: 15px 20px;
+                margin: 20px 15px;
             }
 
             .content {
-                padding: 20px;
+                padding: 15px;
+            }
+
+            .intro-section {
+                padding: 20px 15px;
+            }
+
+            .toc {
+                padding: 20px 15px;
+                margin: 30px 0;
+            }
+
+            .toc h2 {
+                font-size: 1.6em;
             }
 
             .toc-grid {
                 grid-template-columns: 1fr;
+                gap: 15px;
+            }
+
+            .toc-item {
+                padding: 15px;
+            }
+
+            .toc-item h3 {
+                font-size: 1.1em;
+            }
+
+            .toc-item p {
+                font-size: 0.9em;
+            }
+
+            .section {
+                padding: 20px 15px;
+                margin: 30px 0;
             }
 
             .section h2 {
-                font-size: 1.8em;
+                font-size: 1.5em;
+                margin-bottom: 20px;
+            }
+
+            .section h3 {
+                font-size: 1.2em;
+                margin: 20px 0 10px 0;
+            }
+
+            .subsection {
+                padding: 15px;
+                margin: 20px 0;
+            }
+
+            .emergency {
+                padding: 25px 15px;
+            }
+
+            .emergency h2 {
+                font-size: 1.6em;
+            }
+
+            .emergency h3 {
+                font-size: 1.1em;
+                padding: 12px;
+            }
+
+            .highlight-box,
+            .notice-box,
+            .subsection > div {
+                padding: 15px;
+                margin: 15px 0;
+            }
+
+            .gas-table {
+                font-size: 0.85em;
+                display: block;
+                overflow-x: auto;
+            }
+
+            .gas-table thead {
+                display: none;
+            }
+
+            .gas-table tr {
+                display: block;
+                margin-bottom: 20px;
+                border: 1px solid #ddd;
+                border-radius: 8px;
+                padding: 15px;
+            }
+
+            .gas-table td {
+                display: block;
+                padding: 8px 0;
+                border: none;
+            }
+
+            .gas-table td:before {
+                content: attr(data-label);
+                font-weight: bold;
+                display: block;
+                margin-bottom: 5px;
+                color: #1e3c72;
+            }
+
+            ul, ol {
+                padding-left: 25px;
+            }
+
+            li {
+                margin: 8px 0;
+            }
+
+            .footer {
+                padding: 25px 20px;
+                font-size: 0.9em;
+            }
+
+            body {
+                font-size: 15px;
             }
         }
 
@@ -346,7 +485,7 @@
 
         <!-- Alert Banner -->
         <div class="alert-banner">
-            <strong>⚠ CRITICAL SAFETY NOTICE</strong>
+            <strong>â  CRITICAL SAFETY NOTICE</strong>
             Accidents have occurred due to aging equipment. Please schedule regular overhauls in addition to daily inspections, based on usage and annual inspections.
         </div>
 
@@ -432,7 +571,7 @@
 
                     <p>To use high-pressure gas in cylinders, please appoint a person responsible for cylinder management and ensure thorough control of the location of cylinders in terms of storage, transfer and removal from the premises, as well as the prompt return of used cylinders.</p>
 
-                    <p class="warning-text">⚠ Lost or stolen cylinders are an easy source of secondary damage.</p>
+                    <p class="warning-text">â  Lost or stolen cylinders are an easy source of secondary damage.</p>
                     
                     <p>In order to deter terrorism and criminal use, please prevent theft of cylinders, and in particular, thoroughly manage the receipt and delivery of cylinders to be taken out of your business, which can easily become unmanageable or lost.</p>
 
@@ -442,7 +581,7 @@
                         <h4 style="margin-bottom: 10px;">Cylinder Protection Requirements:</h4>
                         <ul>
                             <li>Protect from direct sunlight</li>
-                            <li>Keep temperature below 40°C (104°F) at all times</li>
+                            <li>Keep temperature below 40Â°C (104Â°F) at all times</li>
                             <li>Protect from shock from falling or tipping over</li>
                             <li>Prevent damage to valves</li>
                             <li>Avoid corrosion by chemicals, water droplets, moisture, etc.</li>
@@ -491,7 +630,7 @@
                         <h4>Environmental Requirements:</h4>
                         <ul>
                             <li>Adequate ventilation at all times</li>
-                            <li>Temperature control (below 40°C/104°F)</li>
+                            <li>Temperature control (below 40Â°C/104Â°F)</li>
                             <li>Protection from direct sunlight</li>
                             <li>Dry, moisture-free conditions</li>
                             <li>Clear of flammable materials (minimum 2 meters)</li>
@@ -539,11 +678,11 @@
                             <li>Cylinder valve gland wrench or monkey wrench</li>
                             <li>Rope (two or more ropes of 15 m or longer)</li>
                         </ul>
-                        <p style="margin-top: 10px;"><em>*However, these are not necessary if only cylinders with a capacity of 25 liters or less are loaded with a total volume of 50 liters or less. (Required if the cylinder is larger than 7m³ of oxygen or 6 kg of acetylene)</em></p>
+                        <p style="margin-top: 10px;"><em>*However, these are not necessary if only cylinders with a capacity of 25 liters or less are loaded with a total volume of 50 liters or less. (Required if the cylinder is larger than 7mÂ³ of oxygen or 6 kg of acetylene)</em></p>
                     </div>
 
                     <div style="margin-top: 20px; padding: 20px; background: #f8d7da; border-left: 4px solid #dc3545; border-radius: 5px;">
-                        <p class="warning-text" style="font-size: 1.1em;">⚠ CRITICAL WARNING</p>
+                        <p class="warning-text" style="font-size: 1.1em;">â  CRITICAL WARNING</p>
                         <p>Wagons and cars are not suitable for transporting high-pressure gases. If they are unavoidably used, they must be well ventilated at all times to prevent stagnation even in the event of a leak.</p>
                         <p style="margin-top: 15px;"><strong>It is prohibited to leave loaded cylinders in a parked vehicle for extended periods of time (generally 2 hours or more).</strong> This is a violation of storage standards and is subject to more severe penalties.</p>
                     </div>
@@ -553,7 +692,7 @@
 
                     <div style="margin-top: 15px; padding: 15px; background: #e8f4f8; border-radius: 5px;">
                         <h4>Safety-Related Facilities Include:</h4>
-                        <ul style="column-count: 2; column-gap: 20px;">
+                        <ul>
                             <li>Schools and kindergartens</li>
                             <li>Hospitals</li>
                             <li>Theaters and cinemas</li>
@@ -567,7 +706,7 @@
                             <li>Major stations (20,000+ daily passengers)</li>
                             <li>Department stores and markets</li>
                             <li>Hotels and inns</li>
-                            <li>Large public buildings (1,000+ m² floor area)</li>
+                            <li>Large public buildings (1,000+ mÂ² floor area)</li>
                             <li>Residential buildings</li>
                         </ul>
                     </div>
@@ -578,7 +717,7 @@
 
             <!-- Section 5 - Emergency Response -->
             <section class="section emergency">
-                <h2>🚨 5. Accident Response - EMERGENCY!</h2>
+                <h2>ð¨ 5. Accident Response - EMERGENCY!</h2>
                 
                 <p style="font-size: 1.1em; margin-bottom: 20px;">Please thoroughly discuss emergency response with suppliers and ensure that appropriate measures, responses and communications are in place, such as posting emergency contact information.</p>
 
@@ -614,7 +753,7 @@
                     </ol>
                     
                     <p style="margin-top: 20px; background: rgba(255,255,255,0.2); padding: 15px; border-radius: 5px;">
-                        <strong>⚠ CRITICAL:</strong> Even after the fire is extinguished, if there is a gas leak, there is a possibility of re-ignition or explosion. Continue thorough cooling and forced ventilation.
+                        <strong>â  CRITICAL:</strong> Even after the fire is extinguished, if there is a gas leak, there is a possibility of re-ignition or explosion. Continue thorough cooling and forced ventilation.
                     </p>
                 </div>
 
@@ -661,7 +800,7 @@
                             <li>Prevent tipping, considering all foreseeable disasters</li>
                             <li>Keep out of direct sunlight</li>
                             <li>Ensure well-ventilated area</li>
-                            <li>Maintain temperature below 40°C at all times</li>
+                            <li>Maintain temperature below 40Â°C at all times</li>
                             <li>Keep oxygen and combustible gas cylinders separate</li>
                             <li>Segregate full cylinders from residual gas cylinders</li>
                             <li>Provide fire extinguishers</li>
@@ -670,7 +809,7 @@
                         </ul>
                     </div>
 
-                    <p style="margin-top: 20px;" class="warning-text">⚠ Storage of more than 40 kg of acetylene or 300 kg of LP gas must be notified in advance to the fire department in accordance with the Fire Code. (Other notifications may be required according to ordinances, so please consult your dealer.)</p>
+                    <p style="margin-top: 20px;" class="warning-text">â  Storage of more than 40 kg of acetylene or 300 kg of LP gas must be notified in advance to the fire department in accordance with the Fire Code. (Other notifications may be required according to ordinances, so please consult your dealer.)</p>
                 </div>
 
                 <div class="subsection">
@@ -691,7 +830,7 @@
                     <h3>Prohibited Actions (Unauthorized and Unreported Manufacturing and Sales)</h3>
                     
                     <div style="padding: 20px; background: #f8d7da; border-left: 4px solid #dc3545; border-radius: 5px;">
-                        <p class="warning-text" style="font-size: 1.1em;">⚠ STRICTLY PROHIBITED</p>
+                        <p class="warning-text" style="font-size: 1.1em;">â  STRICTLY PROHIBITED</p>
                         <p style="margin-top: 10px;">Manufacturing activities that do not meet the standards for high-pressure gas manufacturing are extremely dangerous and are prohibited by law.</p>
                         <p style="margin-top: 10px;"><strong>All high-pressure gas manufacturing businesses must notify the prefectural governor, etc. (or the mayor or other designated address if authority has been transferred to the municipality) or apply for a license.</strong></p>
                         <p style="margin-top: 10px; font-weight: bold;">Violations will be severely punished.</p>
@@ -729,24 +868,25 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td><strong>Oxygen</strong></td>
-                            <td class="gas-color color-black">Black</td>
-                            <td>Oxygen is a highly flammable gas that will not burn in air, but will often burn in high concentrations of oxygen. When using oxygen, there is a risk of ignition if the cylinder or equipment (valves, regulators, etc.) is covered with oil, grease, or other combustible materials.</td>
+                            <td data-label="Gas Name"><strong>Oxygen</strong></td>
+                            <td data-label="Cylinder Color" class="gas-color color-black">Black</td>
+                            <td data-label="Properties">Oxygen is a highly flammable gas that will not burn in air, but will often burn in high concentrations of oxygen. When using oxygen, there is a risk of ignition if the cylinder or equipment (valves, regulators, etc.) is covered with oil, grease, or other combustible materials.</td>
                         </tr>
                         <tr>
-                            <td><strong>Acetylene</strong></td>
-                            <td class="gas-color color-brown">Brown</td>
-                            <td>Extremely unstable gas which may explode if ignited, heated or struck. Contains impurities, has an odor, and can be toxic if inhaled.</td>
+                            <td data-label="Gas Name"><strong>Acetylene</strong></td>
+                            <td data-label="Cylinder Color" class="gas-color color-brown">Brown</td>
+                            <td data-label="Properties">Extremely unstable gas which may explode if ignited, heated or struck. Contains impurities, has an odor, and can be toxic if inhaled.</td>
                         </tr>
                         <tr>
-                            <td><strong>Propane<br>Butane<br>Propylene</strong></td>
-                            <td class="gas-color color-gray">Gray</td>
-                            <td>All are components of LP gas. Originally colorless and odorless, but an unpleasant odor is intentionally added, except for those labeled "industrial odorless" on cylinders. Heavier than air and tends to stay lower. If you breathe a lot, there is a risk of suffocation and mild anesthesia. For safe use of gas, please use the safety reference materials issued by ZenYoRen.</td>
+                            <td data-label="Gas Name"><strong>Propane<br>Butane<br>Propylene</strong></td>
+                            <td data-label="Cylinder Color" class="gas-color color-gray">Gray</td>
+                            <td data-label="Properties">All are components of LP gas. Originally colorless and odorless, but an unpleasant odor is intentionally added, except for those labeled "industrial odorless" on cylinders. Heavier than air and tends to stay lower. If you breathe a lot, there is a risk of suffocation and mild anesthesia. For safe use of gas, please use the safety reference materials issued by ZenYoRen.</td>
                         </tr>
                     </tbody>
                 </table>
             </section>
         </div>
+        
 
         <!-- Footer -->
         <footer class="footer">
@@ -754,6 +894,9 @@
             <p>Distributed in 2024</p>
             <p>This document is based on Article 20-5, Paragraph 1 (Duty of Adequate Information, etc.) of the High-Pressure Gas Safety Law</p>
             <p style="margin-top: 20px; font-size: 0.9em;">For questions or additional information, please contact your authorized distributor.</p>
+            <p> https://h-oooka.github.io/contents/PRECAUTIONS_INF.html</p>
+
+
         </footer>
     </div>
 </body>
