@@ -22,8 +22,6 @@
 
 #### ○[動画　フィクション：とある酸素屋の営業担当](https://youtu.be/r6imzswGyeY)
 
-[♪高圧ガス販売店の世界（生成AI版）](https://youtube.com/playlist?list=PLBAoD-GOnTpU0b89upQKYETGrP_7a6NiL&si=YwSxWeJiu5_xK-di)
-
 
 ---
 
@@ -34,6 +32,8 @@
 #### ○[高圧ガス販売店・販売主任者の仕事ざっと一覧](https://h-oooka.github.io/GasSource.jp/高圧ガス販売店・販売主任者の仕事ざっと一覧2023.html)
 
 #### ○[高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
+
+
 
 ---
 
@@ -48,6 +48,7 @@
 #### ○[全溶連保安講習会テキスト　安衛法「管理対象化学物質となった高圧ガス」2025](https://h-oooka.github.io/contents/講習テキスト2025（安衛法特化部分）s.pdf.pdf)
 
 #### ○[英文周知文書](https://zenyoren.com/wp-content/uploads/2024/08/e21cadfc4997589c558de66f51f98000.pdf)
+└　[英文周知文書のHTML展開（試作）　](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)**追加10/27**
 
 ---
 #### ○[高圧ガス販売店はどのようにあるべきか](https://h-oooka.github.io/GasSource.jp/業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜.pdf)
@@ -60,4 +61,9 @@
 
 
 
-https://h-oooka.github.io/contents/
+[https://h-oooka.github.io/contents/　▶](https://h-oooka.github.io/contents/)　[.](https://h-oooka.github.io/contents/index0.html)
+
+
+<BR>
+<BR>
+<BR>
