@@ -89,7 +89,9 @@
 └　[英文周知文書のHTML展開（試作）　](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)  **追加10/27**
 
 <BR>
+
 ---
+
 #### ○ [高圧ガス販売店はどのようにあるべきか](https://h-oooka.github.io/GasSource.jp/業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜.pdf)
 
 <BR>
