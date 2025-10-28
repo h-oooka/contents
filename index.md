@@ -24,7 +24,6 @@
 
 
 ---
-
 ### テキストデータ類
 
 #### ○ [「受け売りしたくなる」具体的なネタ集](https://h-oooka.github.io/GasSource.jp/A_collection_of_specific_topics.html)
@@ -32,8 +31,8 @@
 #### ○ [高圧ガス販売店・販売主任者の仕事ざっと一覧](https://h-oooka.github.io/GasSource.jp/高圧ガス販売店・販売主任者の仕事ざっと一覧2023.html)
 
 #### ○ [高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
----
 
+---
 ### PDF資料類
 
 #### ○ [2025法省令改正の正誤表](https://h-oooka.github.io/GasSource.jp/2025法省令改正の正誤表s.pdf)
