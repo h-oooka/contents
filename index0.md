@@ -1,0 +1,22 @@
+# INDEX0 oooka contents
+
+#### ○[近畿高圧ガス保安懇談会質問シート](https://h-oooka.github.io/contents/Question_KINKI_KONDANKAI.pdf)
+
+#### ○[提案）ガス吸蔵金属容器の実現を目指して](https://h-oooka.github.io/contents/提案）ガス吸蔵金属容器の実現を目指して.pdf)
+
+#### ○[２０２５経済産業大臣表彰答辞](https://h-oooka.github.io/contents/２０２５経済産業大臣表彰答辞.pdf)
+
+#### ○[社内工場保安大会不在あいさつ](https://h-oooka.github.io/contents/社内工場保安大会不在あいさつ.pdf)
+
+#### [♪高圧ガス販売店の世界（生成AI版）](https://youtube.com/playlist?list=PLBAoD-GOnTpU0b89upQKYETGrP_7a6NiL&si=YwSxWeJiu5_xK-di)
+
+#### [♪全溶連大会懇親会替え歌シリーズ](https://www.youtube.com/playlist?list=PLyWaCYkYFCtRMTHxfczm59NDmvbL9YvJd)
+
+#### [動画プレイリスト・とある高圧ガスシリーズ](https://www.youtube.com/playlist?list=PLyWaCYkYFCtRNnVTW7CGmEQe7p2On7Db0)
+
+#### [ミリンとラーゴの高圧ガス保安講座（作成途中）](https://www.youtube.com/playlist?list=PLBAoD-GOnTpV0_G0YYWWRn7dOFjrgYTbv)
+
+
+---
+
+https://h-oooka.github.io/contents/index0.html
