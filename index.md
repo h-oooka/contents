@@ -6,7 +6,7 @@
 <BR>
 
 #### ○ [動画　業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜](https://youtu.be/BITLzXlhM98)
-<BR>
+
 
 #### ○ [動画　販売主任者の仕事：販売事業所としてやるべきこと](https://www.youtube.com/watch?v=CcDMJt0jbj4)
 <BR>
