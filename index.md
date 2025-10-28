@@ -35,7 +35,6 @@
 
 ### テキストデータ類
 <BR>
-<BR>
 
 #### ○ [「受け売りしたくなる」具体的なネタ集](https://h-oooka.github.io/GasSource.jp/A_collection_of_specific_topics.html)
 <BR>
