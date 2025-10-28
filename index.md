@@ -27,7 +27,6 @@
 
 #### ○ [動画　周知文書2024 ３分解説](https://youtu.be/amdpnPdZc64?si=PU0rlo6PsUGyB0o0)
 <BR>
-<BR>
 
 #### ○ [動画　フィクション：とある酸素屋の営業担当](https://youtu.be/r6imzswGyeY)
 
