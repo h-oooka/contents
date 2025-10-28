@@ -9,21 +9,21 @@
 
 
 #### ○ [動画　販売主任者の仕事：販売事業所としてやるべきこと](https://www.youtube.com/watch?v=CcDMJt0jbj4)
-<BR>
+
 
 #### ○ [動画リスト　高圧ガス講習会・素材（高圧ガスプレゼンパーツ）](https://www.youtube.com/playlist?list=PLyWaCYkYFCtRkPucUMitdzt-6NS_G58JI)
-<BR>
+
 
 #### ○ [動画　江戸川区埋設アセチレンボンベ漏出ガス爆発事故・分析](https://youtu.be/DdZVHsk0VAQ)
 
 〔[江戸川区埋設アセチレンボンベ漏出ガス爆発事故解析資料集](https://h-oooka.github.io/contents/edogawa.html)〕
-<BR>
+
 
 #### ○ [動画　「全溶連SDGs活動について」](https://www.youtube.com/watch?v=rpwbO-xyYrw&list=PLBAoD-GOnTpV4T2y9tv1itmh9Yqpj7lbH&index=4)
-<BR>
+
 
 #### ○ [動画　全溶連保安委員会プレゼン「全溶連SDGsがⅧ分で解る動画」](https://www.youtube.com/watch?v=CDGY3w1SWNo&list=PLBAoD-GOnTpV4T2y9tv1itmh9Yqpj7lbH&index=3)
-<BR>
+
 
 #### ○ [動画　周知文書2024 ３分解説](https://youtu.be/amdpnPdZc64?si=PU0rlo6PsUGyB0o0)
 <BR>
