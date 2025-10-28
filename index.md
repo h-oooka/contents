@@ -12,6 +12,7 @@
 #### ○[動画　江戸川区埋設アセチレンボンベ漏出ガス爆発事故・分析](https://youtu.be/DdZVHsk0VAQ)
 〔[江戸川区埋設アセチレンボンベ漏出ガス爆発事故解析資料集](https://h-oooka.github.io/contents/edogawa.html)〕
 
+<BR>
 
 #### ○[動画　「全溶連SDGs活動について」](https://www.youtube.com/watch?v=rpwbO-xyYrw&list=PLBAoD-GOnTpV4T2y9tv1itmh9Yqpj7lbH&index=4)
 
@@ -20,6 +21,7 @@
 #### ○[動画　周知文書2024 ３分解説](https://youtu.be/amdpnPdZc64?si=PU0rlo6PsUGyB0o0)
 
 
+<BR>
 #### ○[動画　フィクション：とある酸素屋の営業担当](https://youtu.be/r6imzswGyeY)
 
 
@@ -32,7 +34,6 @@
 #### ○[高圧ガス販売店・販売主任者の仕事ざっと一覧](https://h-oooka.github.io/GasSource.jp/高圧ガス販売店・販売主任者の仕事ざっと一覧2023.html)
 
 #### ○[高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
-
 
 
 ---
@@ -59,6 +60,8 @@
 
 #### ○[高圧ガス業界における保安資料継続と保安文化の課題に関する総合アプローチ](https://github.com/h-oooka/GasSource.jp/blob/main/高圧ガス業界における保安資料継続と保安文化の課題に関する総合アプローチ3.pdf)
 
+<BR>
+<BR>
 
 
 [https://h-oooka.github.io/contents/　▶](https://h-oooka.github.io/contents/)　[.](https://h-oooka.github.io/contents/index0.html)
