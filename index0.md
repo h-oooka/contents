@@ -33,6 +33,8 @@
 
 #### [ミリンとラーゴの高圧ガス保安講座（作成途中）](https://www.youtube.com/playlist?list=PLBAoD-GOnTpV0_G0YYWWRn7dOFjrgYTbv)
 
+<BR>
+
 
 
 [前経済委員会の資料類はこちら](https://h-oooka.github.io/GasSource.jp/経済委員会の資料.html)
@@ -42,6 +44,19 @@
 [会議内容説明資料](https://h-oooka.github.io/GasSource.jp/事前説明：全溶連保安委員会（20251031）.html)
 
 [～江戸川大爆発～](https://h-oooka.github.io/GasSource.jp/edogawa.html)
+
+
+[高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
+
+[「受け売りしたくなる」具体的なネタ集](https://h-oooka.github.io/GasSource.jp/A_collection_of_specific_topics.html)
+
+
+
+[英文周知文書のHTML展開（試作）](https://h-oooka.github.io/contents/PRECAUTIONS_INF.html)
+
+[例：高圧ガス保安法　2024－2025比較結果](https://h-oooka.github.io/contents/Ippansoku_2024-2025compared.html)
+
+[例：一般高圧ガス保安規則　2024－2025比較結果](https://h-oooka.github.io/contents/Hoanho_2024-2025compared.html)
 
 
 <BR>
