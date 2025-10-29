@@ -33,6 +33,17 @@
 
 #### [ミリンとラーゴの高圧ガス保安講座（作成途中）](https://www.youtube.com/playlist?list=PLBAoD-GOnTpV0_G0YYWWRn7dOFjrgYTbv)
 
+
+
+[前経済委員会の資料類はこちら](https://h-oooka.github.io/GasSource.jp/経済委員会の資料.html)
+
+[保安委員会10/31図式資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf)
+
+[会議内容説明資料](https://h-oooka.github.io/GasSource.jp/事前説明：全溶連保安委員会（20251031）.html)
+
+[～江戸川大爆発～](https://h-oooka.github.io/GasSource.jp/edogawa.html)
+
+
 <BR>
 <BR>
 ---
