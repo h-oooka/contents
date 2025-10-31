@@ -59,7 +59,12 @@
 [例：一般高圧ガス保安規則　2024－2025比較結果](https://h-oooka.github.io/contents/Hoanho_2024-2025compared.html)
 
 
+
+
 <BR>
+
+[功徳と高圧ガス保安](https://h-oooka.github.io/contents/功徳と高圧ガス保安.html)
+
 <BR>
 ---
 <BR>
